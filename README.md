@@ -7,27 +7,21 @@ This repository contains the datasets and supplementary material associated with
 The work presents a soft pneumatic robotic system designed to emulate clinically inspired tactile stimulation patterns for neonatal care, based on experimentally measured force data from a trained neonatology specialist.
 
 ---
-
 ## Repository Structure
 
-RobyCare/
-│
-├── data/
-│   ├── clinician_force/
-│   ├── control_results/
-│   ├── calibration/
-│
-├── figures/
-│   ├── paper/
-│   ├── supplementary/
-│
-├── videos/
-│   ├── Supplementary_Video_S1.mp4
-│
-└── README.md
+- **RobyCare/**
+  - **data/**
+    - clinician_force/
+    - control_results/
+    - calibration/
+  - **figures/**
+    - paper/
+    - supplementary/
+  - **videos/**
+    - Supplementary_Video_S1.mp4
+  - README.md
 
----
-
+    
 ## Data Description
 
 ### clinician_force/
@@ -85,6 +79,6 @@ No human subjects or patient data were involved in this study. Tactile inputs we
 
 ## Contact
 
-**[Yarilenka Geraldine Benites Mozo]**  
-[Universidad de Ingeniería y Tecnología - UTEC]  
-[yarilenka.benites.m@utec.edu.pe]
+**Yarilenka Geraldine Benites Mozo**  
+Universidad de Ingeniería y Tecnología - UTEC 
+yarilenka.benites.m@utec.edu.pe
