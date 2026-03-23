@@ -11,13 +11,13 @@ The work presents a soft pneumatic robotic system designed to emulate clinically
 
 - **RobyCare/**
   - **data/**
+    - calibration/
     - clinician_force/
     - control_results/
-    - calibration/
   - **figures/**
     - paper/
     - supplementary/
-  - **videos/**
+  - **video/**
     - Supplementary_Video_S1.mp4
   - README.md
 
