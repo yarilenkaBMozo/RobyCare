@@ -14,6 +14,8 @@ The work presents a soft pneumatic robotic system designed to emulate clinically
     - calibration/
     - clinician_force/
     - control_results/
+  - **docs/**
+    - AI_prompts.txt/
   - **figures/**
     - paper/
     - supplementary/
@@ -77,8 +79,23 @@ No human subjects or patient data were involved in this study. Tactile inputs we
 
 ---
 
+## AI Usage Transparency
+
+AI-based tools (ChatGPT, OpenAI) were used exclusively for language refinement and improvement of manuscript clarity. These tools supported grammar correction, readability enhancement, and alignment with academic writing standards.
+
+No AI tools were used for generating data, experimental results, or scientific conclusions. All technical content was developed and validated by the authors.
+
+### Representative Prompts
+
+- "Improve the clarity and academic tone of this paragraph while preserving its original meaning."
+- "Refine this section to align with journal-style scientific writing without modifying the technical content."
+- "Rewrite this paragraph to improve readability and conciseness."
+
+---
+
 ## Contact
 
 **Yarilenka Geraldine Benites Mozo**  
-Universidad de Ingeniería y Tecnología - UTEC 
+Universidad de Ingeniería y Tecnología - UTEC
+
 yarilenka.benites.m@utec.edu.pe
